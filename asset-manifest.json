@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realcollegeranking.com/static/css/main.2e5be4a2.css",
+    "main.js": "/realcollegeranking.com/static/js/main.e8292795.js",
+    "static/js/787.c9f1571d.chunk.js": "/realcollegeranking.com/static/js/787.c9f1571d.chunk.js",
+    "index.html": "/realcollegeranking.com/index.html",
+    "main.2e5be4a2.css.map": "/realcollegeranking.com/static/css/main.2e5be4a2.css.map",
+    "main.e8292795.js.map": "/realcollegeranking.com/static/js/main.e8292795.js.map",
+    "787.c9f1571d.chunk.js.map": "/realcollegeranking.com/static/js/787.c9f1571d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5be4a2.css",
+    "static/js/main.e8292795.js"
+  ]
+}
