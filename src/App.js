@@ -8,6 +8,7 @@ import Header from './components/Header';
 import About from './components/About';
 import Contact from './components/Contact';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
                   <Route path="/contact" element={<Contact />} />
                   <Route path="*" element={<LandingPage />} />  {/* Default route */}
               </Routes>
+              <Footer />
           </div>
       </Router>
   );
